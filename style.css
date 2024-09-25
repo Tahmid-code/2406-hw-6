@@ -1,0 +1,58 @@
+.parent{ 
+    width: 30%;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px ; 
+    border-radius: 2px 2px 2px 2px;
+    
+}
+
+
+
+#nav {
+    background-color: #ce4cc7;
+    display: inline-block;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    text-align: center;
+    padding: 5px;
+}
+img{
+    height: 399px;
+    align-items: center;
+}
+#link{
+    text-decoration: none;
+    color: black;
+}
+.contents{
+    text-align: center;
+}
+.btn {
+    text-align: center;
+    padding: 10px;
+}
+.ulgrp {
+    color: rgb(139, 138, 138);
+}
+#price {
+    color: rgb(197, 130, 5);
+    padding: 5px;
+
+}
+.btngrp {
+    text-align: center;
+    color: aqua;
+    padding: 5px;
+}
+button{
+    text-transform: capitalize;        
+}
+#rank{
+    background-color: rgb(56, 56, 223);
+    width: 300px;
+    padding: 5px;
+    color: white;
+}
+#bank {
+    width: 300px;
+    padding: 5px;
+}
